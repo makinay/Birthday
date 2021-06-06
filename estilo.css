@@ -1,6 +1,25 @@
 body {
     font-family: "Sofia", sans-serif;
     font-size: xx-large;
-    color: aliceblue;
-    background-color: black;
+
 }
+    
+
+.texto{
+    padding-top: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+    
+
+}
+
+.imagem{
+    
+    padding-left: 200px;
+    padding-right: 300px;
+    
+}
+
+
+
